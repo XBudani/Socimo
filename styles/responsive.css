@@ -1,0 +1,233 @@
+@media screen and (max-width:576px) {
+
+    #links {
+        display: none;
+    }
+    
+    
+    #bars {
+        display: unset;
+    }
+    
+    .w-sm-2{
+        width: 2%;
+    }
+    .w-sm-10{
+        width: 10% ;
+    }
+    .w-sm-15{
+        width: 15% ;
+    }
+    .w-sm-20{
+        width: 20% ;
+    }
+    .w-sm-25{
+        width: 25% ;
+    }
+    .w-sm-30{
+        width: 30% ;
+    }
+    .w-sm-40{
+        width: 40% ;
+    }
+    .w-sm-50{
+        width: 50% ;
+    }
+    .w-sm-60{
+        width: 60% ;
+    }
+    .w-sm-70{
+        width: 70% ;
+    }
+    .w-sm-80{
+        width: 80% ;
+    }
+    .w-sm-90{
+        width: 90% ;
+    }
+    .w-sm-100{
+        width: 100% ;}
+   .m-sm-top-5{
+    margin-top: 5%;
+   }
+   .m-sm-top-45 {
+    margin-top: 45%;
+}
+.font-sm-xxs{
+    font-size: 0.3rem;
+}
+.font-sm-xs{
+    font-size: 0.9rem;
+}
+.font-sm-s{
+    font-size: 1.5rem;
+}
+.font-sm-m{
+
+    font-size: 2.1rem;
+}
+.font-sm-l{
+    font-size: 2.7rem;
+
+}
+.font-sm-xl{
+    font-size: 3.3rem;
+
+}
+.font-sm-xxl{
+    font-size: 3.9rem;    
+
+}
+.p-left-sm-2{
+    padding-left: 2%;
+}
+.p-right-sm-2{
+    padding-right: 2%;
+}
+
+
+.advance{
+    background-image: linear-gradient(0deg, rgba(8, 8, 51, 0.7),rgb(8,8,51,0.7)), url(../images/paralex-bg.jpg);
+    background-position: center center;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+   position: absolute;
+} 
+
+
+
+
+
+}
+
+@media screen and (min-width:576px) and (max-width:768px){
+    
+
+    #links {
+        display: none;
+    }
+    
+    #bars {
+        display: unset;
+    }
+    .w-md-2{
+        width: 2%;
+    }
+    .w-md-10{
+        width: 10% ;
+    }
+    .w-md-15{
+        width: 15% ;
+    }
+    .w-md-20{
+        width: 20% ;
+    }
+    .w-md-25{
+        width: 25% ;
+    }
+    .w-md-30{
+        width: 30% ;
+    }
+    .w-md-35{
+        width: 35% ;
+    }
+    .w-md-40{
+        width: 40% ;
+    }
+    .w-md-50{
+        width: 50% ;
+    }
+    .w-md-60{
+        width: 60% ;
+    }
+    .w-md-70{
+        width: 70% ;
+    }
+    .w-md-80{
+        width: 80% ;
+    }
+    .w-md-90{
+        width: 90% ;
+    }
+    .w-md-100{
+        width: 100% ;
+    }
+    .font-md-xxs{
+        font-size: 0.3rem;
+    }
+    .font-md-xs{
+        font-size: 0.9rem;
+    }
+    .font-md-s{
+        font-size: 1.5rem;
+    }
+    .font-md-m{
+    
+        font-size: 2.1rem;
+    }
+    .font-md-l{
+        font-size: 2.7rem;
+    
+    }
+    .font-md-xl{
+        font-size: 3.3rem;
+    
+    }
+    .font-md-xxl{
+        font-size: 3.9rem;    
+    
+    
+    
+    }
+
+    .m-md-top-06 {
+        margin-top: 0.6%;
+    }
+    .m-md-top-2 {
+        margin-top: 2%;
+    }
+    .m-md-top-3 {
+        margin-top: 3%;
+    }
+    .m-md-top-4 {
+        margin-top: 4%;
+    }
+    .m-md-top-5 {
+        margin-top: 5%;
+    }
+    .m-md-top-6 {
+        margin-top: 6%;
+    }
+
+    .m-md-top-45 {
+        margin-top: 45%;
+    }
+    
+    .p-left-md-2{
+        padding-left: 2%;
+    }
+    .p-right-md-2{
+        padding-right: 2%;
+    }
+    .advance{
+        background-image: linear-gradient(0deg, rgba(8, 8, 51, 0.7),rgb(8,8,51,0.7)), url(../images/paralex-bg.jpg);
+        background-position: center center;
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+        position: relative;
+        text-align: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 200px;
+       position: absolute;
+    } 
+      
+
+}
